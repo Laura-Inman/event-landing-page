@@ -2,12 +2,10 @@
 
 .jumbotron {
     background-image: url(../img/agape-trn-H-XOmJhbM3s-unsplash.jpg);
-    height: 50vh;
+    background-attachment: fixed;
+    height: 100vh;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.sm-img {
-    height:40vh;
-}
